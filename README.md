@@ -1,4 +1,4 @@
-# ChessAIProject
+# KoDAIC (Kind of Decent AI for Chess)
  
 
 This project covers the whole life cycle of building an Artificial Intelligence to play the game of chess.
